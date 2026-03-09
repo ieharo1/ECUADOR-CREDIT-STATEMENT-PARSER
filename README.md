@@ -173,13 +173,6 @@ datos.exportar("db.sqlite", format="sqlite", table="movimientos")
 
 ---
 
-## 🤝 Contribuciones
-
-¿Agregaste soporte para otro banco?
-¡Abre un Pull Request!
-
----
-
 ## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
 **Ingeniero en Sistemas · Full Stack · Automatización · Data**
